@@ -7,6 +7,14 @@
 }
 
 body {
-    font-family: Poppins, sans-serif;
+    font-family: "Libre Franklin", sans-serif;
     font-weight: 300;
+    /* Here, decide what color I want the text to be when decided on a color scheme*/
+}
+
+
+/*Heading and Logo*/
+
+h1, h2 {
+    font-family: Poppins, sans-serif;
 }
