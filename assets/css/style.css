@@ -28,6 +28,7 @@ h1, h2 {
     margin-left: 15px;
 }
 
+
 /* navigation links */
 
 #menu {
@@ -56,4 +57,21 @@ h1, h2 {
     border-top: 1px solid white;
     border-bottom: 1px solid white;
 }
+
+
+/* Hero image */
+
+#hero-image-container {
+    height: 600px;
+    width: 100%;
+}
+
+#hero-image {
+    height: 600px;
+    width: 100%;
+    background: url(../images/hero-image.jpeg) no-repeat center center;
+    object-fit: cover;
+
+}
+
 
