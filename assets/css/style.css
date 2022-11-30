@@ -17,4 +17,15 @@ body {
 
 h1, h2 {
     font-family: Poppins, sans-serif;
+    text-transform: uppercase;
+    letter-spacing: 2px;
+    color: white;
+}
+
+header {
+    background-color: #48502f;
+}
+
+#logo {
+    font-size: 280%;
 }
