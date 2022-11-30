@@ -9,6 +9,7 @@
 body {
     font-family: "Libre Franklin", sans-serif;
     font-weight: 300;
+    background-color: #48502f;
     /* Here, decide what color I want the text to be when decided on a color scheme*/
 }
 
@@ -22,10 +23,37 @@ h1, h2 {
     color: white;
 }
 
-header {
-    background-color: #48502f;
-}
-
 #logo {
     font-size: 280%;
+    margin-left: 15px;
 }
+
+/* navigation links */
+
+#menu {
+    font-size: 110%;
+    letter-spacing: 2px;
+    margin: 10px 0;
+}
+
+#menu li {
+    float: left;
+    list-style-type: none;
+    margin-right: 30px;
+}
+
+#menu a {
+    text-decoration: none;
+    color: white;
+}
+
+#menu a:hover {
+    border-top: 1px solid white;
+    border-bottom: 1px solid white;
+}
+
+.active {
+    border-top: 1px solid white;
+    border-bottom: 1px solid white;
+}
+
