@@ -131,5 +131,27 @@ width: 90%;
     height: 100%;
 }
 
+/* footer */
+
+footer {
+    height: 150px;
+    background-color: #48502f;
+}
+
+#social-media {
+    text-align: center;
+}
+
+#social-media > li {
+    display: inline;
+}
+
+#social-media i {
+    font-size: 160%;
+    margin: 1%;
+    padding: 5%;
+    color: white;
+}
+
 
 
