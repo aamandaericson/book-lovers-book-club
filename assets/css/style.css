@@ -9,8 +9,7 @@
 body {
     font-family: "Libre Franklin", sans-serif;
     font-weight: 300;
-    background-color: #48502f;
-    /* Here, decide what color I want the text to be when decided on a color scheme*/
+    color: #303030;
 }
 
 
@@ -20,7 +19,7 @@ h1, h2 {
     font-family: Poppins, sans-serif;
     text-transform: uppercase;
     letter-spacing: 2px;
-    color: white;
+    color: #48502f;
 }
 
 #logo {
@@ -45,17 +44,17 @@ h1, h2 {
 
 #menu a {
     text-decoration: none;
-    color: white;
+    color: #48502f;
 }
 
 #menu a:hover {
-    border-top: 1px solid white;
-    border-bottom: 1px solid white;
+    border-top: 1px solid #48502f;
+    border-bottom: 1px solid  #48502f;
 }
 
 .active {
-    border-top: 1px solid white;
-    border-bottom: 1px solid white;
+    border-top: 1px solid  #48502f;
+    border-bottom: 1px solid  #48502f;
 }
 
 
