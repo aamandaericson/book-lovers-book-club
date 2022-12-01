@@ -15,7 +15,7 @@ body {
 
 /*Heading and Logo*/
 
-h1, h2 {
+h1, h2, h3 {
     font-family: Poppins, sans-serif;
     text-transform: uppercase;
     letter-spacing: 2px;
@@ -94,7 +94,7 @@ header a {
     height: 600px;
 }
 
-#about-div {
+#about-full {
     height: 600px;
     margin: 10px 5%;
 }
@@ -107,6 +107,18 @@ width: 90%;
     width: 100%;
     margin: 10px 5%;
 }
+
+.about-headings {
+    text-align: center;
+    padding: 10px;
+}
+
+#about p {
+    margin: 0 5%;
+    text-align: center;
+    line-height: 20px;
+}
+
 
 
 
