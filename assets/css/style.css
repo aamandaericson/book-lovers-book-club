@@ -79,4 +79,27 @@ header a {
 
 }
 
+/* About section */
+
+.white-text {
+    color: white;
+}
+
+.green-background {
+    background-color: #48502f;
+}
+
+#about {
+    width: 100%;
+    height: 600px;
+}
+
+#about-div {
+    width: 80%;
+    height: 600px;
+    margin: 10px 5%;
+}
+
+
+
 
