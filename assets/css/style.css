@@ -79,7 +79,7 @@ header a {
 
 }
 
-/* About section */
+/*styling classes*/
 
 .white-text {
     color: white;
@@ -88,6 +88,12 @@ header a {
 .green-background {
     background-color: #48502f;
 }
+
+.center-text {
+    text-align: center;
+}
+
+/* About section */
 
 #about {
     width: 100%;
@@ -127,8 +133,13 @@ width: 90%;
 
 #meet-up {
     width: 90%;
-    margin: 0 5%;
+    margin: 5%;
     height: 100%;
+}
+
+.genre {
+    padding: 10px 5%;
+    margin: 10px;
 }
 
 /* footer */
@@ -152,6 +163,8 @@ footer {
     padding: 5%;
     color: white;
 }
+
+
 
 
 
