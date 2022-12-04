@@ -127,19 +127,18 @@ width: 90%;
 
 /* Meet up */
 
-#meet-up-wrapper {
+#meet-up {
+    width: 90%;
     height: 600px;
 }
 
-#meet-up {
-    width: 90%;
-    margin: 5%;
-    height: 100%;
+.genre {
+    margin: 10px;
+    height: 20%;
 }
 
-.genre {
-    padding: 10px 5%;
-    margin: 10px;
+ #meet-up h2 {
+    height: 20%;
 }
 
 /* footer */
@@ -162,6 +161,16 @@ footer {
     margin: 1%;
     padding: 5%;
     color: white;
+}
+
+/* Books page */
+
+#books-information {
+    clear: both;
+    width: 100%;
+    margin-top: 40px;
+    padding: 30px 30px 30px 20px;
+    
 }
 
 
