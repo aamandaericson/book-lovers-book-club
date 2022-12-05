@@ -43,7 +43,12 @@ header a {
 #menu li {
     float: left;
     list-style-type: none;
-    margin-right: 30px;
+    margin-right: 20px;
+}
+
+/* Rule for the right most list item so that the menu doesn't fall down to a second row on smaller screens*/
+#menu .no-margin {
+    margin: 0;
 }
 
 #menu a {
