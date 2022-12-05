@@ -167,9 +167,14 @@ footer {
     padding: 30px 30px 30px 20px;
 }
 
+/* Generall rule for paragrafs to match first page*/
+p {
+    line-height: 20px;
+}
+
 .about-book{
     width: 90%;
-    margin: 0 auto;
+    margin: 30px auto;
 }
 
 .about-book span {
