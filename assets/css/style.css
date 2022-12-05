@@ -185,6 +185,24 @@ footer {
     margin: 10px 0;
 }
 
+#table-of-contents {
+    margin: 20px 0 10px 0;
+}
 
+#table-of-contents a {
+    text-decoration: none;
+    color: white;
+    margin-right: 7px;
+    
+}
+
+#table-of-contents li {
+    display: inline;
+}
+
+#table-of-contents a:hover {
+    color: #48502f;
+    background-color: white;
+}
 
 
