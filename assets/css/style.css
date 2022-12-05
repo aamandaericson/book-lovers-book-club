@@ -170,9 +170,21 @@ footer {
     width: 100%;
     margin-top: 40px;
     padding: 30px 30px 30px 20px;
-    
 }
 
+.about-book{
+    width: 90%;
+    height: 300px;
+    margin: 0 auto;
+}
+
+.about-book span {
+    font-style: italic;
+}
+
+.about-book h3, h4 {
+    margin: 10px 0;
+}
 
 
 
