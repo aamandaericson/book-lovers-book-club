@@ -160,30 +160,6 @@ footer {
 
 /* Books page */
 
-#books-information {
-    clear: both;
-    margin-top: 40px;
-    padding: 10px 30px 30px 20px;
-}
-
-/* Generall rule for paragrafs to match first page*/
-p {
-    line-height: 20px;
-}
-
-.about-book{
-    width: 90%;
-    margin: 30px auto;
-}
-
-.about-book span {
-    font-style: italic;
-}
-
-.about-book h3, h4 {
-    margin: 10px 0;
-}
-
 #table-of-contents {
     margin: 20px 0 10px 0;
 }
@@ -203,5 +179,37 @@ p {
     color: #48502f;
     background-color: white;
 }
+
+#books-information {
+    clear: both;
+    margin-top: 40px;
+    padding: 10px 30px 30px 20px;
+}
+
+/* Generall rule for paragraphs to match first page*/
+p {
+    line-height: 20px;
+}
+
+.about-book{
+    width: 90%;
+    margin: 30px auto;
+}
+
+.about-book span {
+    font-style: italic;
+}
+
+.about-book h3, h4 {
+    margin: 10px 0;
+}
+
+.image-of-book img{
+    width: 100%;
+    margin-top: 30px;
+}
+
+
+
 
 
