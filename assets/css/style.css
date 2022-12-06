@@ -216,6 +216,7 @@ p {
     opacity:0.6;
 }
 
+/* Rule for Jane Eyre image to override previous opacity rule*/
 .image-of-book #jane-eyre {
     opacity: 1;
 }
