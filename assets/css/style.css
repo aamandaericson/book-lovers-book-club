@@ -126,7 +126,7 @@ width: 90%;
 
 /* Meet up */
 
-#meet-up, h2 {
+#meet-up h2 {
     margin-top: 20px;
 }
 
@@ -168,11 +168,11 @@ footer {
     text-decoration: none;
     color: white;
     margin-right: 7px;
-    
 }
 
 #table-of-contents li {
-    display: inline;
+    list-style-type: none;
+    padding-bottom: 20px;
 }
 
 #table-of-contents a:hover {
@@ -183,7 +183,7 @@ footer {
 #books-information {
     clear: both;
     margin-top: 40px;
-    padding: 10px 30px 30px 20px;
+    padding: 10px 10px 10px 20px;
 }
 
 /* Generall rule for paragraphs to match first page*/
