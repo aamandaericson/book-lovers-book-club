@@ -204,10 +204,23 @@ p {
     margin: 10px 0;
 }
 
+.about-book p {
+    margin-bottom: 30px;
+}
+
+.image-of-book {
+    background-color: #48502f;
+}
 .image-of-book img{
     width: 100%;
-    margin-top: 30px;
+    opacity:0.6;
 }
+
+.image-of-book #jane-eyre {
+    opacity: 1;
+}
+
+
 
 
 
