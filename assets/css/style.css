@@ -225,13 +225,17 @@ p {
 
 /* Sign up page */
 
-/*.sign-up-form {
+.form-section {
     background: url(../images/sign-up-background.jpg);
     background-size: cover;
     background-position: center;
     width: 100%;
     opacity: 0.5;
-}*/
+}
+
+.sign-up-form {
+
+}
 
 
 
