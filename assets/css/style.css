@@ -24,7 +24,6 @@ h1, h2, h3 {
     text-transform: uppercase;
     letter-spacing: 2px;
     color: #48502f;
-
 }
 
 #logo {
@@ -189,9 +188,12 @@ footer {
 }
 
 /* Generall rule for paragraphs to match first page*/
+
 p {
     line-height: 20px;
 }
+
+/* Style rules for about book classes*/
 
 .about-book{
     width: 90%;
@@ -210,20 +212,25 @@ p {
     margin-bottom: 30px;
 }
 
+/* Rules for styling the images on book page*/
+
 .image-of-book {
     background-color: #48502f;
 }
+
 .image-of-book img{
     width: 100%;
     opacity:0.6;
 }
 
-/* Rule for Jane Eyre image to override previous opacity rule*/
+/* Rule for Jane Eyre image to override previous opacity rule because it looked better without the opacity*/
 .image-of-book #jane-eyre {
     opacity: 1;
 }
 
 /* Sign up page */
+
+/* Background image*/
 
 .form-section {
     background: url("../images/green-shelf.jpg");
@@ -231,6 +238,8 @@ p {
     background-position: center;
     height: 900px;
 }
+
+/* Sign up form */
 
 .sign-up-form {
     margin: 150px 10% 0 0;
@@ -256,8 +265,14 @@ p {
     border: 1px solid white;
 }
 
+/* Code for mystery and classics radio buttons to get a little more space from elements around them*/
+
 #mystery {
-    margin-bottom: 20px;
+    margin-bottom: 10px;
+}
+
+#classics {
+    margin-top: 10px;
 }
 
 
