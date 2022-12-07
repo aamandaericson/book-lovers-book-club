@@ -230,11 +230,13 @@ p {
     background-size: cover;
     background-position: center;
     width: 100%;
+}
+
+.form-section img {
     opacity: 0.5;
 }
 
 .sign-up-form {
-
 }
 
 
