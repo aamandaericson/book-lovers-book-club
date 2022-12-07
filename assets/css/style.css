@@ -289,5 +289,10 @@ p {
     font-size: 100%;
     background-color: #ccda7b;
     font-weight: bold;
-    color: #303030;;
+    color: #303030;
+}
+/* Invert colors when hover */
+.submit-button:hover{
+    color: #ccda7b;
+    background-color: #303030;
 }
