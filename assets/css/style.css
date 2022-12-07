@@ -226,7 +226,7 @@ p {
 /* Sign up page */
 
 .form-section {
-    background: url(../images/sign-up-background.jpg);
+    background: url(../images/green-shelf.jpg);
     background-size: cover;
     background-position: center;
     width: 100%;
@@ -234,6 +234,7 @@ p {
 
 
 .sign-up-form {
+    
 }
 
 
