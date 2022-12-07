@@ -121,7 +121,6 @@ width: 90%;
 #about p {
     margin: 0 5%;
     text-align: center;
-    line-height: 20px;
 }
 
 /* Meet up */
@@ -189,7 +188,7 @@ footer {
 /* Generall rule for paragraphs to match first page*/
 
 p {
-    line-height: 20px;
+    line-height: 1.5rem;
 }
 
 /* Style rules for about book classes*/
