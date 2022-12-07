@@ -280,4 +280,14 @@ p {
     margin-top: 10px;
 }
 
+/* Submit button */
 
+.submit-button{
+    margin-top: 15px;
+    border-radius: 10px;
+    padding: 15px;
+    font-size: 100%;
+    background-color: #ccda7b;
+    font-weight: bold;
+    color: #303030;;
+}
