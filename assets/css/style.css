@@ -300,3 +300,17 @@ p {
     color: #ccda7b;
     background-color: #303030;
 }
+
+/* Media queries */
+
+/* Change background image because it doesn't look good after 500px */
+
+@media screen and (min-width: 500px) {
+    #hero-image {
+        background-image: url(../images/hero-image.jpeg);
+    }
+}
+
+
+
+
