@@ -22,7 +22,7 @@ header {
 h1, h2, h3 {
     font-family: Poppins, sans-serif;
     text-transform: uppercase;
-    letter-spacing: 2px;
+    letter-spacing: 0.125rem;
     color: #48502f;
 }
 
@@ -39,7 +39,7 @@ header a {
 
 #menu {
     font-size: 1.3rem;
-    letter-spacing: 2px;
+    letter-spacing: 0.125rem;
     margin: 0 20px;
 }
 
