@@ -265,7 +265,12 @@ p {
     border: 1px solid white;
 }
 
-/* Code for mystery and classics radio buttons to get a little more space from elements around them*/
+/* Size the text-area box*/
+#other-info {
+    height: 60px;
+}
+
+/* Style rules for mystery and classics radio buttons to get a little more space from elements around them*/
 
 #mystery {
     margin-bottom: 10px;
