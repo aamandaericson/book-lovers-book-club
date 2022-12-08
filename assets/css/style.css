@@ -426,11 +426,13 @@ p {
         padding: 20px;
         margin-bottom: 100px;
     }
+
+    /*style header and h3 to make it clearer where each article begins*/
     .about-book header{
         clear: both;
         float: left;
         margin: 15px 0 0 5%;
-        width: 100%;
+        width: 90%;
         background-color: #48502f;
     }
 
@@ -438,8 +440,7 @@ p {
         color: white;
         margin-left: 5%;
     }
-
-
+    /*Make text float left and image float right*/
     .left-book {
         clear: both;
         width: 45%;
@@ -457,10 +458,8 @@ p {
     .image-of-book img {
         width: 300px;
         display: inline;
+        margin-top: 0;
     }
-    /* To get a bit more even layout for romance and mystery image*/
-    .margin-for-image {
-        margin-top: 100px;
-    }
+
 
 }
