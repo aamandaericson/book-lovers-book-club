@@ -421,12 +421,21 @@ p {
      /* Book page*/
 
     .about-book{
-        width: 60%;
+        width: 70%;
         margin: 0 auto;
+        padding: 20px;
+        margin-bottom: 100px;
     }
     .about-book header{
         clear: both;
         float: left;
+        margin: 15px 0 0 5%;
+        width: 100%;
+        background-color: #48502f;
+    }
+
+    .about-book h3 {
+        color: white;
         margin-left: 5%;
     }
 
@@ -449,7 +458,7 @@ p {
         width: 300px;
         display: inline;
     }
-
+    /* To get a bit more even layout for romance and mystery image*/
     .margin-for-image {
         margin-top: 100px;
     }
