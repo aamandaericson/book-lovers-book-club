@@ -375,13 +375,78 @@ p {
 
     #about p {
         margin-bottom: 30px;
-    }
-
-    /*Book page*/
-
-
-
-
-     
+    }   
 }
 
+/* For screens over 992px*/
+@media screen and (min-width: 992px) {
+    
+    /* Home page*/
+
+    #hero-image-container {
+        margin-bottom: 30px;
+    }
+
+    #menu {
+        margin-right: 50px;
+    }
+    
+    /*Put the about and meet up next to each other*/
+    #about {
+        width: 50%;
+        margin: 0;
+        padding: 0;
+        float: left;
+        margin-bottom: 30px;
+    }
+
+    #meet-up {
+        width: 50%;
+        margin: 0;
+        float: right;
+
+    }
+    /* To make both column headers the same height*/
+    #meet-up h2 {
+        margin-top: 30px;
+    }
+
+    footer {
+        clear: both;
+    }
+
+     /* Book page*/
+
+    .about-book{
+        width: 100%;
+        margin: 0;
+    }
+    .about-book header{
+        clear: both;
+        float: left;
+        margin: 5%;
+    }
+
+    .about-book section {
+        width: 100%;
+    }
+
+    .left-book {
+        clear: both;
+        width: 60%;
+        float: left;
+        margin-left: 5%;
+    }
+
+    .image-of-book {
+        max-width: 25%;
+        margin: 0;
+        padding: 0;
+        float: right;
+        margin-right: 5%;
+    }
+    .image-of-book img {
+        width: 100%;
+        display: inline;
+    }
+}
