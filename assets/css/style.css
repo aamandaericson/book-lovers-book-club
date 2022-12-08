@@ -421,35 +421,37 @@ p {
      /* Book page*/
 
     .about-book{
-        width: 100%;
-        margin: 0;
+        width: 60%;
+        margin: 0 auto;
     }
     .about-book header{
         clear: both;
         float: left;
-        margin: 5%;
+        margin-left: 5%;
     }
 
-    .about-book section {
-        width: 100%;
-    }
 
     .left-book {
         clear: both;
-        width: 60%;
+        width: 45%;
         float: left;
         margin-left: 5%;
     }
 
     .image-of-book {
-        max-width: 25%;
+        max-width: 45%;
         margin: 0;
         padding: 0;
         float: right;
         margin-right: 5%;
     }
     .image-of-book img {
-        width: 100%;
+        width: 300px;
         display: inline;
     }
+
+    .margin-for-image {
+        margin-top: 100px;
+    }
+
 }
