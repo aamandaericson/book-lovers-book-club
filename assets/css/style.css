@@ -104,6 +104,7 @@ header a {
     margin: 10px 15px;
     padding: 0 20px 20px 20px;
 }
+
 #book-wrapper {
 width: 90%;
 }
@@ -311,6 +312,58 @@ p {
     }
 }
 
+/* For screens over 768px*/
+@media screen and (min-width: 768px) {
 
+    /*Home page*/
+    body {
+        font-size: 1.25rem;
+    }
+    
+    #logo {
+        font-size: 3.5rem;
+        float: left;
+    }
 
+    #menu {
+        float: right;
+        font-size: 1.4rem;
+    }
+
+    #menu li {
+        float: left; 
+    }
+    
+    /* For horizontal alignment for the logo and menu*/ 
+    #logo, #menu {
+        line-height: 4.5rem;
+        margin-bottom: 30px;
+    }
+
+    /* About book section*/
+
+    #book-wrapper {
+        margin: 0 auto;
+    }
+
+    #book-wrapper img {
+        /* Put display to block to center image */
+        display: block;
+        margin: 0;
+        padding: 0;
+        width: 80%;
+        margin: 0 auto;
+    }
+
+    #about h2, h3 {
+        padding: 30px;
+    }
+
+    #about p {
+        margin-bottom: 30px;
+    }
+
+    
+     
+}
 
