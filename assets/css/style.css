@@ -232,6 +232,7 @@ p {
 /* Background image*/
 
 .form-section {
+    clear: both;
     background: url("../images/green-shelf.jpg");
     background-size: cover;
     background-position: center;
@@ -364,6 +365,10 @@ p {
     }
 
     /*Book page*/
+
+    /* Rules for styling the images on book page*/
+
+    
 
 
      
