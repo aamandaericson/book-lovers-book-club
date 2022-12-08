@@ -329,6 +329,10 @@ p {
     body {
         font-size: 1.25rem;
     }
+
+    p {
+        line-height: 2rem;
+    }
     
     #logo {
         font-size: 3.5rem;
