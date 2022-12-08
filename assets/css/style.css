@@ -305,11 +305,20 @@ p {
 
 /* Media queries */
 
-/* Change background image because it doesn't look good after 500px */
+/* Change hero image and images on book page because they don't look good after 500px */
 
 @media screen and (min-width: 500px) {
     #hero-image {
         background-image: url(../images/hero-image.jpeg);
+    }
+
+    .image-of-book{
+        max-width: 500px;
+        margin: 0 auto;
+    }
+
+    .image-of-book img {
+        max-width: 500px;
     }
 }
 
@@ -366,9 +375,7 @@ p {
 
     /*Book page*/
 
-    /* Rules for styling the images on book page*/
 
-    
 
 
      
