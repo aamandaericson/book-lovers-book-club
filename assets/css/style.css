@@ -355,7 +355,7 @@ p {
         margin: 0 auto;
     }
 
-    #about h2, h3 {
+    .about-headings {
         padding: 30px;
     }
 
@@ -363,7 +363,9 @@ p {
         margin-bottom: 30px;
     }
 
-    
+    /*Book page*/
+
+
      
 }
 
