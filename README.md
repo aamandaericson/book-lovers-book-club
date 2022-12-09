@@ -63,4 +63,9 @@ From there they can use the menu in the header to eather read more about the boo
    * I tested that this page work with different browsers: Chrome, Firefox, Edge, Safari.
    * I confirmed that the site is responsive and looks good on different devices using devtools device toolbar.
    * I confirmed that the different pages on the site are all easy to understand and easy to read. 
-   * I have confirmed that the form works, and all input entries except for the textarea element are required. One of the radio buttons must be pushed. The email field must contain an email address and the submit button works. 
+   * I have confirmed that the form works, and all input entries except for the textarea element are required. One of the radio buttons must be pushed. The email field must contain an email address and the submit button works.
+
+## Bugs
+   * Had a problem of centering my content on the home page since I used a width of 90% and tried to use margins to center. However I realised that it was better to just use the full width and then to use text-align for both a simpler cleaner code and a better lay out.
+   * When I first deployed my site on github pages some images didn't work because I used absolute file paths. 
+   * When setting up my sign up form my first plan was to do check boxes for the part of "Which group do you want to join". I then realized that there wasn't a way of doing this using ONLY HTML and CSS. Therefore I used radio buttons and then an option of filling in the textarea providing information about joining multiple groups.  
