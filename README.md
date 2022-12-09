@@ -102,7 +102,14 @@ From there they can use the menu in the header to eather read more about the boo
 
 Live link here: https://aamandaericson.github.io/book-lovers-book-club/index.html
 
-
+## Credits
+  ### Content
+  * The code to make the social media links were taken from the CI Love running project.
+  * The code for the sign up page layout and submit form where taken from the CI Love running project.
+  * Code for changing the color of my placeholder text was taken from W3CSchools.
+  * The information about not being able to set check boxes to required was taken from stack-overflow.
+  ### Media
+   * The images used in this project were taken from [Unsplash](https://unsplash.com/) and [Pexels](https://www.pexels.com/)
 
 
      
