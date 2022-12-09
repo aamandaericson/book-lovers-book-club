@@ -79,14 +79,13 @@ From there they can use the menu in the header to eather read more about the boo
      * I confirmed that the chosen fonts and colors are accessable using lighthouse.
 
      * Home page
-  ![Alt text](assets/images/lighthouse-home-page.PNG)
+      ![Alt text](assets/images/lighthouse-home-page.PNG)
 
     * Book page
-  ![Alt text](assets/images/lighthouse-book-page.PNG)
+      ![Alt text](assets/images/lighthouse-book-page.PNG)
      * Sign Up page
+      ![Alt text](assets/images/lighthouse-signup-page.PNG)
 
-     ![Alt text](assets/images/lighthouse-signup-page.PNG)
-     
 ## Unfixed bugs
    * I have one unfixed bug on the books page impacting the bottom of the image. I used a container for the images that I applied a background-color to. I then made the images a bit see-through (every image except the Jane Eyre one) to keep a common theme. The images in a whole looks okay but the bottom of the image has a green line. The container with the background color can be seen. I know realize after tutor support from Code Institute that this is because of not assigning height values to the image and container. By doing this as well as asigning all images to the same original height value I could hide this bug. However with a shortage of time I couldn't imply this fix and I don't think it impact the user much while looking at the page.   
    <br />
