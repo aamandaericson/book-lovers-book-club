@@ -59,4 +59,8 @@ From there they can use the menu in the header to eather read more about the boo
     <br />
     ![Alt text](assets/images/sign-up.PNG)
 
-    
+## Testing
+   * I tested that this page work with different browsers: Chrome, Firefox, Edge, Safari.
+   * I confirmed that the site is responsive and looks good on different devices using devtools device toolbar.
+   * I confirmed that the different pages on the site are all easy to understand and easy to read. 
+   * I have confirmed that the form works, and all input entries except for the textarea element are required. One of the radio buttons must be pushed. The email field must contain an email address and the submit button works. 
