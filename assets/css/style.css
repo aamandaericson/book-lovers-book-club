@@ -341,7 +341,7 @@ p {
         font-size: 3.5rem;
         float: left;
     }
-
+    /* Two float directions in #menu and #menu li to make the menu items fall in the right order*/
     #menu {
         float: right;
         font-size: 1.4rem;
@@ -460,6 +460,4 @@ p {
         display: inline;
         margin-top: 0;
     }
-
-
 }
