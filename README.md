@@ -67,5 +67,28 @@ From there they can use the menu in the header to eather read more about the boo
 
 ## Bugs
    * Had a problem of centering my content on the home page since I used a width of 90% and tried to use margins to center. However I realised that it was better to just use the full width and then to use text-align for both a simpler cleaner code and a better lay out.
-   * When I first deployed my site on github pages some images didn't work because I used absolute file paths. 
-   * When setting up my sign up form my first plan was to do check boxes for the part of "Which group do you want to join". I then realized that there wasn't a way of doing this using ONLY HTML and CSS. Therefore I used radio buttons and then an option of filling in the textarea providing information about joining multiple groups.  
+   * When I first deployed my site on github pages some images didn't work because I used absolute file paths. Removing the staring */* fixed the problem.
+   * When setting up my sign up form my first plan was to do check boxes for the part of "Which group do you want to join". I then realized that there wasn't a way of doing this using ONLY HTML and CSS. Therefore I used radio buttons and then an option of filling in the textarea providing information about joining multiple groups. 
+
+## Validator testing
+   * HTML
+     * No errors were returned when passing through the official W3C validator.
+   * CSS 
+     * No errors were returned when passing through the official (Jigsaw) validator.
+   * Accessibility 
+     * I confirmed that the chosen fonts and colors are accessable using lighthouse.
+
+     * Home page
+     <br />
+     ![Alt text](assets/images/lighthouse-home-page.PNG)
+     <br />
+     * Book page
+     <br />
+     ![Alt text](assets/images/lighthouse-book-page.PNG)
+     <br />
+     * Sign Up page
+      <br />
+    ![Alt text](assets/images/lighthouse-signup-page.PNG)
+
+     
+
