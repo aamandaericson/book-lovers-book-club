@@ -81,7 +81,7 @@ From there they can use the menu in the header to eather read more about the boo
      * Home page
       ![Alt text](assets/images/lighthouse-home-page.PNG)
 
-    * Book page
+     * Book page
       ![Alt text](assets/images/lighthouse-book-page.PNG)
      * Sign Up page
       ![Alt text](assets/images/lighthouse-signup-page.PNG)
