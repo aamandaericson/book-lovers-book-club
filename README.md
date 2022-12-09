@@ -16,6 +16,7 @@ From there they can use the menu in the header to eather read more about the boo
   * At the right top of the page (or if you are looking on a smaller device, beneath the logo) there are links to Home, Books and Sign Up. These will take you to different pages on the website. Screen shot of logo and menu links are below.
   * In the footer on the bottom of the page there are icons for different social media. These are links and will open the respective social media in a new tab. 
   * On the "Books page" there are internal links for each book that the groups are reading. The original idea of this was that it would be an easy way to navigate to the genre you are interested in. I thought about removing it due to the length of the page, that wasn't that long, but I descided to keep it for the posibility of adding more books in the future. For example, adding books that was previously read, making the page longer. Screen shot of the internal links is below.
+  * On the book page there is also links at the bottom of each article that links to sites where you can read more about the books. 
 
   ![Alt text](assets/images/menu-and-logo.PNG)
 
