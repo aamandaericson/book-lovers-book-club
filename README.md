@@ -49,4 +49,14 @@ From there they can use the menu in the header to eather read more about the boo
   * Each article has an icon for the genre which is the same ones used on the Meet up section
   <br />
   <br />
+
   ![Alt text](assets/images/books.PNG)
+
+* ### Sign up page
+  * The sign up page has a background image styled and applied with css and was chosen because of that the green of the plants and that the book shelf went good with the theme of the page.
+  * The sign up form collects different kind of data from the user when provided. It collects a first name, a last name, an email address, what group the user is interested in joining and a textarea where the user can state if they want to join more than one group. 
+    <br />
+    <br />
+    ![Alt text](assets/images/sign-up.PNG)
+
+    
